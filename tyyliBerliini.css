@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #003b2d;
+    color: #ffffff;
+    padding: 15px;
+
+    background-image: url(https://www.deluxecanopy.com/cdn/shop/files/berlin-banner.jpg?v=1623221498);
+    background-size: cover;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+section {
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #414141;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
